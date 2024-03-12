@@ -1,0 +1,1 @@
+O app foi feito com o intuito de estudar React Native com Expo. Ele é um gerador de senhas que apresenta a opção de escolher a quantidade de caracteres, gerar, copiar e salvar as senhas. Ao gerar, é só apertar e segurar em cima que a senha será copiada e automaticamente salva. Ao ir em "Minhas senhas", se clicar e segurar, a senha será deletada da lista.
